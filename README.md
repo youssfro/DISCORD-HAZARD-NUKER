@@ -143,7 +143,7 @@ I hope you end up on the streets begging for spare change.
 #### Compiled Version (Easier but more buggy)
 ```sh-session
 Visit: https://github.com/KDot227/hazard-nuker-mirror/releases
-Download the latest release (Hazard.zip) and extract the EXE to your desktop.
+Download the latest release (Hazard-nuker-miror.zip) and extract the EXE to your desktop.
 Finally, run the executable and enjoy!
 ```
 
