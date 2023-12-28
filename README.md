@@ -128,7 +128,7 @@ Change the following:
 ---
 
 ### ❗ Important
-* Found a bug? Join the [Discord](https://cheataway.com/invite) and contact me (Rdimo) or create an issue about it directly in [here!](https://github.com/KDot227/hazard-nuker-mirror/issues/new/choose)
+* Found a bug? Join the [Discord](https://discord.gg/2RqU7xDP) and contact me (SLOWW) or create an issue about it directly in [here!](https://github.com/KDot227/hazard-nuker-mirror/issues/new/choose)
 > **WARNING:** Many people have been selling/distributing infected versions of Hazard Nuker.
 > **DO NOT** install Hazard Nuker from any place other than this page. If you install it from somewhere else, expect to be **Hacked/Scammed.**
 
