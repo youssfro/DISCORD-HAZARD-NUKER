@@ -1,4 +1,5 @@
-<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://i.imgur.com/NuuUSUK.png" alt="HazardNuker"></a>
+<p align="center">
+<img src="https://github.com/youssfro/DISCORD-HAZARD-NUKER/assets/151571703/2a3f656f-8af7-4557-b515-4bdc80b671f6)" </a>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/KDot227/hazard-nuker-mirror?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/KDot227/hazard-nuker-mirror?style=flat-square" </a>
