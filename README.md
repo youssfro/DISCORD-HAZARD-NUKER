@@ -138,7 +138,7 @@ We can't stop you, but just know you're pathetic. <br>
 <br>
 I hope you end up on the streets begging for spare change.
 
-## Installation EXTRACT THE FILE BEFORE USE
+## Installation EXTRACT THE FILE BEFORE USE AND REMOVE THE ANTI-VIRUS
 
 #### Compiled Version (Easier but more buggy)
 ```sh-session
