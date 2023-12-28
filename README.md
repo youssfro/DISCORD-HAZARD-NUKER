@@ -165,4 +165,4 @@ NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MI
 
 <a href="https://cheataway.com" target="_blank"><img src="https://cdn.discordapp.com/avatars/1026078415754887168/361f632df71851579af62750e6897b8f.png?size=256" alt="Cheataway"/></a>
 
-**Hazard Stealer was created by Rdimo & DeKrypt. + Maintained by K.Dot227**
+**Hazard Stealer was created by SLOWW. + Maintained by K.Dot227**
