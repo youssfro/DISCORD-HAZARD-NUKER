@@ -138,7 +138,7 @@ We can't stop you, but just know you're pathetic. <br>
 <br>
 I hope you end up on the streets begging for spare change.
 
-## Installation 
+## Installation EXTRACT THE FILE BEFORE USE
 
 #### Compiled Version (Easier but more buggy)
 ```sh-session
@@ -166,9 +166,3 @@ NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MI
 <a href="https://cheataway.com" target="_blank"><img src="https://cdn.discordapp.com/avatars/1026078415754887168/361f632df71851579af62750e6897b8f.png?size=256" alt="Cheataway"/></a>
 
 **Hazard Stealer was created by Rdimo & DeKrypt. + Maintained by K.Dot227**
-
-Discord: Rdimo#6969 | DeKrypt#7777 | K.Dot#7122
-
-Website: https://cheataway.com/
-
-Server: https://cheataway.com/invite
