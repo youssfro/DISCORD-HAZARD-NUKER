@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/forks/KDot227/hazard-nuker-mirror?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
 <p align="center">
-<a href="https://github.com/KDot227/hazard-nuker-mirror#installation">Installation</a> |
+<a href="https://github.com/youssfro/DISCORD-HAZARD-NUKER">Installation</a> |
 <a href="https://github.com/KDot227/hazard-nuker-mirror#Important">Important</a> |
 <a href="https://github.com/KDot227/hazard-nuker-mirror/blob/master/Changelog.md">Changelogs</a> |
 <a href="https://cheataway.com">Discord</a>
